@@ -2,16 +2,7 @@
      GITHUB PROFILE README — TejasDR01
      ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=header" width="100%"/>
-
-<div align="center">
-<h1 style="font-family: 'Orbiton', sans-serif; font-size: 3em; font-weight: 700; color: #ffffff; margin: 0;">
-  Tejas Ramachandra
-</h1>
-<p style="color: #8ba4c9; font-size: 0.95em; margin-top: 6px;">
-  Software Engineer &nbsp;|&nbsp; USC MS CS &nbsp;|&nbsp; Full-Stack / Security / Systems / AI
-</p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=140&section=header&text=Tejas-Ramachandra&font=Orbitron&fontSize=38&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Software%20Engineer%20%7C%20USC%20MS%20CS%20%7C%20Full-Stack%20%2F%20Security%20%2F%20Systems%20%2F%20AI&descAlignY=78&descSize=15&descColor=8ba4c9" width="100%"/>
 
 <div align="center">
 
